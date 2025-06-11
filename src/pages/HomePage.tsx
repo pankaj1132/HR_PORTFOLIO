@@ -3,7 +3,7 @@ import About from '../components/About'
 import WhatweDo from '../components/WhatweDo'
 import Founder from '../components/Founder'
 import Service from '../components/Service'
-import BookCall from '../components/BookCall'
+
 import FAQ from '../components/FAQ'
 import LastSection from '../components/LastSection'
 
